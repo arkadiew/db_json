@@ -1,22 +1,22 @@
 {
   "services": [
     {
-      "image": "https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg",
+      "image": "https://www.perforce.com/sites/default/files/styles/social_preview_image/public/image/2020-01/image-blog-future-software-development.png?itok=eO9Fa9k-",
       "title": "Software Development",
       "description": "Tailored software development services for various platforms including web, mobile, and desktop applications."
     },
     {
-      "image": "https://www.12k2.com/wp-content/uploads/2017/03/Free-Cloud-Hosting-Solutions-for-Startups-Microsoft-Azure.png",
+      "image": "https://www.netcov.com/wp-content/filemgr/2019/05/cloud-services-difference_network-coverage.jpg",
       "title": "Cloud Services and Hosting Solutions",
       "description": "Robust cloud services tailored to your needs, from selecting the right cloud solution to data migration and security implementation."
     },
     {
-      "image": "https://consultats.com/wp-content/uploads/2022/07/cyber-security-solutions.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQccGAs-e_7eC2ifsTbqBQMBwdVyQyyFEkZ0kyHRkGPiQ&s",
       "title": "Cybersecurity Solutions",
       "description": "Proactive cybersecurity services including vulnerability assessments, threat monitoring, and security system implementation."
     },
     {
-      "image": "https://www.tatvasoft.com/outsourcing/wp-content/uploads/2023/06/Types-of-web-Development-for-your-project.jpg",
+      "image": "https://blog.hubspot.com/hs-fs/hubfs/web-development.webp?width=595&height=400&name=web-development.webp",
       "title": "Web Development",
       "description": "Dynamic web development services for creating responsive websites and e-commerce platforms."
     },
